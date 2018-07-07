@@ -15,3 +15,12 @@ sudo apt install python-smbus
 ```
 pip install mpu6050-raspberrypi
 ```
+
+## Screenshots:
+<p align="center">
+  <img src="screenshots/Screenshot_1.png">
+  
+  <img src="screenshots/Screenshot_2.png">
+  
+  <img width="700" height="500" src="screenshots/Screenshot_3.png">
+</p>
